@@ -1,0 +1,19 @@
+//fonts
+$lato: 'Poppins', sans-serif;
+
+html {
+  body {
+    background-color: #21232A;
+    color: white;
+    font-family: $lato;
+    font-size: 1.3rem;
+    padding: 70px;
+    button {
+      padding: .7rem;
+      font-size: 1.3rem;
+      border-radius: 2rem;
+      border: none;
+      margin-left: 5px;
+    }
+  }
+}
